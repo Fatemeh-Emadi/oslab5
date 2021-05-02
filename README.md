@@ -6,6 +6,7 @@ pull and push automatically in GitExtentin
 without entering user and password in a prompt every time
 
 git config -- global credential.helper store
+
 هنگامی که این دستور را اجرا می کنید از شما یوزرنیم و پسورد را میخواهد 
 پس از آن برای ارتباطات بعدی نیازی به وارد کردن یوزرنیم و پسورد نیست 
 
