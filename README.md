@@ -59,13 +59,12 @@ url_repo:
 ادرس مخزن آنلاین خودمون
 وسپس دستور زیر را اجرا میکنیم
 
- git branch -M main:
-
-این دستور برای تغییر شاخه به اصلی به جای مستر است 
+  
 
 و در آخر دستور زیر
 
-git push -u origin main
+git push origin master 
+
 
 
 سوال4: 
